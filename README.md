@@ -1,5 +1,5 @@
 # Hi I am [@papaeplen](https://www.facebook.com/papaeplen)
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/papaeplen/papaeplen/blob/main/devcard.svg" width="400" alt="papaeplen's Dev Card"/></a>
+<a href="https://bento.me/papaeplen"><img src="https://github.com/papaeplen/papaeplen/blob/main/devcard.svg" width="400" alt="papaeplen's Dev Card"/></a>
 
 ## I am currently working as a Junior Developer at [MYCURE](https://www.mycure.md)
 
