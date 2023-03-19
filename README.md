@@ -1,6 +1,6 @@
-# Hi there! 👋
+# Hi there, Efren here! 👋
 
-I'm [@Efren James](https://www.facebook.com/papaeplen) a Junior Developer  with 8 months of experience at [MYCURE](https://www.mycure.md) . In my free time, I enjoy [⛰️ hiking](https://www.strava.com/athletes/47579461) , and staying active through [:bike: cyling](https://www.strava.com/athletes/47579461).
+I'm [@Efren James](https://www.facebook.com/papaeplen) a Junior Developer  with 8 months of experience at [MYCURE](https://www.mycure.md). In my free time, I enjoy [⛰️ hiking](https://www.strava.com/athletes/47579461), and staying active through [:bike: cyling](https://www.strava.com/athletes/47579461).
 
 ### My Career
 
@@ -32,4 +32,3 @@ Thank you for taking the time to read my profile, and I look forward to connecti
 papaeplen/papaeplen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
