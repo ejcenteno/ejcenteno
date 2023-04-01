@@ -1,6 +1,6 @@
 # Hi there, Efren here! 👋
 
-I'm [@Efren James](https://www.facebook.com/papaeplen) a Junior Developer  with 8 months of experience at [MYCURE](https://www.mycure.md). In my free time, I enjoy [⛰️ hiking](https://www.strava.com/athletes/47579461), and staying active through [:bike: cyling](https://www.strava.com/athletes/47579461).
+I'm [@Efren James](https://www.facebook.com/ejcenteno69) a Junior Developer  with 8 months of experience at [MYCURE](https://www.mycure.md). In my free time, I enjoy [⛰️ hiking](https://www.strava.com/athletes/47579461), and staying active through [:bike: cyling](https://www.strava.com/athletes/47579461).
 
 ### My Career
 
@@ -16,7 +16,7 @@ I'm a big fan of Football and Cycling. These sports help me stay physically fit.
 
 ### Social Media
 
-You can find me on [my social media bento](https://www.bento.me/papaeplen), where I love to connect with like-minded individuals and share my thoughts and experiences. Feel free to reach out to me on any of these platforms!
+You can find me on [my social media bento](https://www.bento.me/ejcenteno), where I love to connect with like-minded individuals and share my thoughts and experiences. Feel free to reach out to me on any of these platforms!
 - [Twitter](https://twitter.com/ejcenteno69)
 - [LinkedIn](https://www.linkedin.com/in/ejcenteno)
 - [Instagram](https://www.instagram.com/ejcenteno69/)
@@ -27,8 +27,8 @@ You can find me on [my social media bento](https://www.bento.me/papaeplen), wher
 Thank you for taking the time to read my profile, and I look forward to connecting with you!
 
 
-<a href="https://bento.me/papaeplen"><img src="https://github.com/papaeplen/papaeplen/blob/main/devcard.svg" width="400" alt="papaeplen's Dev Card"/></a>
+<a href="https://bento.me/ejcenteno"><img src="https://github.com/ejcenteno/ejcenteno/blob/main/devcard.svg" width="400" alt="ejcenteno's Dev Card"/></a>
 <!---
-papaeplen/papaeplen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ejcenteno/ejcenteno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
