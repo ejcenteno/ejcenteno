@@ -17,11 +17,11 @@ I'm a big fan of Football and Cycling. These sports help me stay physically fit.
 ### Social Media
 
 You can find me on [my social media bento](https://www.bento.me/papaeplen), where I love to connect with like-minded individuals and share my thoughts and experiences. Feel free to reach out to me on any of these platforms!
-- [Twitter](https://twitter.com/papaeplen)
-- [LinkedIn](https://www.linkedin.com/in/papaeplen)
-- [Instagram](https://www.instagram.com/papaeplen/)
-- [GitHub](https://github.com/papaeplen)
-- [Facebook](https://www.facebook.com/papaeplen)
+- [Twitter](https://twitter.com/ejcenteno69)
+- [LinkedIn](https://www.linkedin.com/in/ejcenteno)
+- [Instagram](https://www.instagram.com/ejcenteno69/)
+- [GitHub](https://github.com/ejcenteno)
+- [Facebook](https://www.facebook.com/ejcenteno69)
 
 
 Thank you for taking the time to read my profile, and I look forward to connecting with you!
