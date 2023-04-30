@@ -32,7 +32,7 @@
 </br>
 </br>
 <p>
-  You can connect me with the links below.
+  You can connect with me via the links below.
 </p>
 <!-- social media -->
 <a href="https://www.linkedin.com/in/ejcenteno" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
