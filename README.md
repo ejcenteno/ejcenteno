@@ -7,7 +7,9 @@
 <h3>
  A Junior Developer with 8 months of experience at <a target="_blank" href="https://www.mycure.md">MYCURE</a>. 
 </h3>
-
+</br>
+</br>
+</br>
 <p>
   In the past months, I have learned how to use the following.
 </p>
@@ -26,7 +28,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-
+</br>
+</br>
+</br>
 <p>
   You can connect me with the links below.
 </p>
@@ -40,8 +44,12 @@
 <a href="https://reddit.com/ejcenteno" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"></a>
 <a href="https://www.strava.com/athletes/47579461" target="_blank"><img src="https://img.shields.io/badge/Strava-FC4C02?style=flat-square&logo=strava&logoColor=white" alt="Strava"></a>
 
-
-
+</br>
+</br>
+</br>
+<p>
+  Here are my progress in the past months of my career.
+</p>
 <!-- stats -->
 
 ![ejcenteno's github stats](https://github-readme-stats.vercel.app/api?username=ejcenteno&theme=tokyonight&show_icons=true)
