@@ -5,7 +5,7 @@
   Hi! I'm <a target="_blank" href="https://www.facebook.com/ejcenteno69">Efren James</a> 
 </h1>
 <h3>
- A Junior Developer with 8 months of experience at <a target="_blank" href="https://www.mycure.md">MYCURE</a>. 
+ A Junior Developer with 10 months of experience at <a target="_blank" href="https://www.mycure.md">MYCURE</a>. 
 </h3>
 </br>
 </br>
@@ -53,7 +53,6 @@
 <!-- stats -->
 
 ![ejcenteno's github stats](https://github-readme-stats.vercel.app/api?username=ejcenteno&theme=tokyonight&show_icons=true)
-![ejcenteno's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ejcenteno&style=dark)
 <a href="https://bento.me/ejcenteno"><img src="https://github.com/ejcenteno/ejcenteno/blob/main/devcard.svg" width="400" alt="ejcenteno's Dev Card"/></a>
 
 
