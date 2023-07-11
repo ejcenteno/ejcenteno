@@ -5,7 +5,7 @@
   Hi! I'm <a target="_blank" href="https://www.facebook.com/ejcenteno69">Efren James</a> 
 </h1>
 <h3>
- A Junior Developer with 10 months of experience at <a target="_blank" href="https://www.mycure.md">MYCURE</a>. 
+ A Junior Developer with 1 year of experience at <a target="_blank" href="https://www.mycure.md">MYCURE</a>. 
 </h3>
 </br>
 </br>
