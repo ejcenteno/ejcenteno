@@ -42,7 +42,7 @@
 <a href="https://dev.to/ejcenteno" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <a href="https://twitter.com/ejcenteno69" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://reddit.com/ejcenteno" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"></a>
-<a href="https://www.strava.com/athletes/47579461" target="_blank"><img src="https://img.shields.io/badge/Strava-FC4C02?style=flat-square&logo=strava&logoColor=white" alt="Strava"></a>
+<a href="https://www.strava.com/athletes/ejcenteno" target="_blank"><img src="https://img.shields.io/badge/Strava-FC4C02?style=flat-square&logo=strava&logoColor=white" alt="Strava"></a>
 
 </br>
 </br>
