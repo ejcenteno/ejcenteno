@@ -40,7 +40,7 @@ Here's a glimpse of my GitHub activity:
 ![ejcenteno's github stats](https://github-readme-stats.vercel.app/api?username=ejcenteno&theme=tokyonight&show_icons=true)
 
 <!-- Dev Card -->
-[![ejcenteno's Dev Card](https://github.com/ejcenteno/ejcenteno/blob/main/devcard.svg)](https://bento.me/ejcenteno)
+<a href="https://bento.me/ejcenteno"><img src="https://github.com/ejcenteno/ejcenteno/blob/main/devcard.svg" width="400" alt="ejcenteno's Dev Card"/></a>
 
 <!-- Closing Message -->
 <h3>Thank you for visiting my profile, and I'm excited to connect with you!</h3>
