@@ -39,6 +39,9 @@ Here's a glimpse of my GitHub activity:
 
 ![ejcenteno's github stats](https://github-readme-stats.vercel.app/api?username=ejcenteno&theme=tokyonight&show_icons=true)
 
+<!-- Holopin Board -->
+[![An image of @ejcenteno's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ejcenteno)](https://holopin.io/@ejcenteno)
+
 <!-- Dev Card -->
 <a href="https://bento.me/ejcenteno"><img src="https://github.com/ejcenteno/ejcenteno/blob/main/devcard.svg" width="400" alt="ejcenteno's Dev Card"/></a>
 
