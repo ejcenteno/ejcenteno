@@ -2,7 +2,12 @@
 <h4 align="left"><img src="https://komarev.com/ghpvc/?username=ejcenteno&label=Profile%20views&color=0e75b6&style=flat" alt="ejcenteno"></h4>
 
 <!-- Introduction -->
-# Hi there! 👋 I'm [Efren James](https://www.facebook.com/ejcenteno69), a Junior Developer with 1 year of experience at [MYCURE](https://www.mycure.md).
+# Hi there! 👋 I'm [Efren James](https://www.ejcenteno.dev/), a Junior Developer with 1 year of experience at [MYCURE](https://www.mycure.md).
+
+<!-- Visit my website -->
+## Visit My Website 🌐
+Explore more about me and my projects on my personal website: [ejcenteno.dev](https://www.ejcenteno.dev/).
+
 
 <!-- Skills and Tools -->
 ## Skills and Tools 🛠️
@@ -17,7 +22,6 @@ In the past year, I've gained expertise in:
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 
 <!-- Connect with me -->
 ## Connect with Me 📫
