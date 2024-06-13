@@ -46,9 +46,9 @@
   <a href="https://www.instagram.com/ejcenteno_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.facebook.com/ejcenteno69" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://open.spotify.com/user/22necpinpzg4hrpxrrfgltbzy" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-  <a href="https://dev.to/ejcenteno" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+  <a href="https://dev.to/ejcenteno_" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
   <a href="https://twitter.com/ejcenteno_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://reddit.com/ejcenteno" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"></a>
+  <a href="https://www.reddit.com/user/ejcenteno" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"></a>
   <a href="https://www.strava.com/athletes/ejcenteno" target="_blank"><img src="https://img.shields.io/badge/Strava-FC4C02?style=flat-square&logo=strava&logoColor=white" alt="Strava"></a>
 
 </p>
