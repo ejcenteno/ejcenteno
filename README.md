@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I'm a passionate Junior Developer with 1 year of experience crafting web experiences at <a href="https://www.mycure.md" target="_blank">MYCURE</a>.
+  I'm a passionate Junior Developer with 2 years of experience crafting web experiences at <a href="https://www.mycure.md" target="_blank">MYCURE</a>.
 </p>
 
 <h2 align="center">🚀 Explore My Work</h2>
@@ -25,12 +25,6 @@
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff&style=for-the-badge" alt="Nuxt.js" />
   <img src="https://img.shields.io/badge/Quasar-1976D2?logo=quasar&logoColor=fff&style=for-the-badge" alt="Quasar" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-<h2 align="center">📈 GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ejcenteno&theme=tokyonight&show_icons=true" alt="ejcenteno's github stats" />
 </p>
 
 <h2 align="center">🏆 Holopin Badges</h2>
