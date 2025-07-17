@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I'm a passionate Junior Developer with 2 years of experience crafting web experiences at <a href="https://www.mycure.md" target="_blank">MYCURE</a>.
+  I'm a passionate Web Developer with 3 years of experience crafting web experiences at <a href="https://www.mycure.md" target="_blank">MYCURE</a>.
 </p>
 
 <h2 align="center">🚀 Explore My Work</h2>
