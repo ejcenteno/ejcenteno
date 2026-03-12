@@ -15,19 +15,20 @@
 ```yaml
 name: Efren James Centeno
 role: Front-End Developer @ C3 Interactive Manila
-location: Bulacan, Philippines
+location: Cabuyao, Laguna, Philippines
 education: Associate in Computer Technology - Bulacan State University
 
 currently:
-  - Building React-based web solutions, CMS integrations & SEO-optimized sites
-  - Deepening skills in React ecosystem & modern front-end architecture
+  - Building React-based web solutions with TanStack Query, TanStack Table & shadcn/ui
+  - Learning the Laravel + API Platform backend stack
+  - Exploring state management patterns with Zustand & Jotai
 
 previously:
   - 3+ years at MYCURE building HIPAA-compliant healthcare apps
   - Developed PWA handling 50K+ monthly appointments for 100+ organizations
   - Provided end-user training & support, reducing reported issues by 60%
 
-fun_fact: I built GPXShadow — a web app that turns your Strava runs into art 🏃‍♂️
+fun_fact: I built GPXShadow — a web app that turns your Strava routes into art 🚴‍♂️
 ```
 
 ---
@@ -37,25 +38,27 @@ fun_fact: I built GPXShadow — a web app that turns your Strava runs into art �
 ```
 2022 ─── MYCURE ──────────────────────────── 2025 ─── C3 Interactive ───▶ Present
   │                                              │
-  ├─ Vue.js / Nuxt.js / Quasar                   ├─ React / CMS / SEO
-  ├─ HIPAA-compliant healthcare PWA              ├─ Client web solutions
-  ├─ Client training & product demos             ├─ Cross-functional collaboration
-  └─ QA testing (Cypress + Manual)               └─ Modern front-end architecture
+  ├─ Vue.js / Nuxt.js / Quasar                   ├─ React 19 / TanStack / shadcn/ui
+  ├─ HIPAA-compliant healthcare PWA              ├─ Zustand / Jotai state management
+  ├─ Client training & product demos             ├─ Laravel + API Platform (learning 📖)
+  └─ QA testing (Cypress + Manual)               └─ Figma → React workflows
 ```
 
 ---
 
 ### 🔭 Currently Working On
 
-- 🏢 Front-end development at **C3 Interactive Manila** — React, CMS integration, SEO
-- 🏔️ [**GPXShadow**](https://gpxshadow-art.web.app/) — migrating to new domain with enhanced features
+- 🏢 Front-end development at **C3 Interactive Manila** — React, TanStack, CMS & SEO
+- 🖊️ Managing and maintaining website content for various clients — keeping pages accurate, updated, and on-brand
+- 🧩 **Chrome Extensions** — building a suite of developer tools (Base64, JWT, JSON, and more) for future Chrome Web Store release
+- 🚴 [**GPXShadow**](https://gpxshadow-art.web.app/) — GPX/route visualization with Strava API integration
 - 🌐 [**ejcenteno.dev**](https://ejcenteno-dev.web.app/home) — portfolio updates & improvements
 
 ### 🌱 Currently Learning
 
-- ⚛️ React ecosystem (hooks, state management, component patterns)
+- ⚛️ Advanced React patterns — hooks, compound components, render optimization
+- 🗄️ Laravel + API Platform — understanding REST API design from the backend side *(new territory!)*
 - 🎨 Advanced CSS animations & modern UI/UX patterns
-- 📦 Headless CMS architecture & integration workflows
 
 ---
 
@@ -66,24 +69,36 @@ fun_fact: I built GPXShadow — a web app that turns your Strava runs into art �
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff&style=for-the-badge" alt="Nuxt.js" />
   <img src="https://img.shields.io/badge/Quasar-1976D2?logo=quasar&logoColor=fff&style=for-the-badge" alt="Quasar" />
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=fff" alt="Vuetify" />
 </p>
 
-<h4 align="center">Styling</h4>
+<h4 align="center">State & Data</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/TanStack_Table-FF4154?style=for-the-badge" alt="TanStack Table" />
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Jotai-000000?style=for-the-badge" alt="Jotai" />
+</p>
+
+<h4 align="center">Styling & UI</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
   <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<h4 align="center">Backend, Tools & Testing</h4>
+<h4 align="center">Backend & Tools <em>(learning 📖)</em></h4>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/API_Platform-38A3A5?style=for-the-badge" alt="API Platform" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API" />
@@ -99,7 +114,7 @@ fun_fact: I built GPXShadow — a web app that turns your Strava runs into art �
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏔️ GPXShadow</h3>
+      <h3 align="center">🚴 GPXShadow</h3>
       <p align="center">
         <a href="https://gpxshadow-art.web.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Site-gpxshadow.com-6C63FF?style=for-the-badge" alt="GPXShadow" /></a>
       </p>
@@ -113,6 +128,49 @@ fun_fact: I built GPXShadow — a web app that turns your Strava runs into art �
       </p>
       <p align="center">Personal portfolio with automated CI/CD pipeline, Firebase Hosting, and SEO optimization.</p>
       <p align="center"><em>HTML • CSS • JavaScript • Tailwind CSS • Firebase • GitHub Actions</em></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧩 Chrome Extensions *(in progress — not yet published)*
+
+A growing collection of developer-focused browser extensions built with vanilla JavaScript. Chrome Web Store release coming soon.
+
+<table align="center">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <strong>🖼️ Save Image as Type</strong><br/>
+      Save images directly in your preferred format from the right-click menu.<br/><br/>
+      <a href="https://github.com/ejcenteno/Save-Image-as-Type" target="_blank"><img src="https://img.shields.io/badge/GitHub-Source-181717?style=flat&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <strong>🔤 Text Case Converter</strong><br/>
+      Instantly convert selected text between camelCase, snake_case, UPPER, and more.<br/><br/>
+      <a href="https://github.com/ejcenteno/Text-Case-Converter" target="_blank"><img src="https://img.shields.io/badge/GitHub-Source-181717?style=flat&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <strong>🔐 Base64 Encoder/Decoder</strong><br/>
+      Encode and decode Base64 strings right from the browser toolbar.<br/><br/>
+      <a href="https://github.com/ejcenteno/Base64-Encoder-Decoder" target="_blank"><img src="https://img.shields.io/badge/GitHub-Source-181717?style=flat&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <strong>🪙 JWT Encoder/Decoder</strong><br/>
+      Inspect and decode JWT tokens without leaving the browser.<br/><br/>
+      <a href="https://github.com/ejcenteno/JWT-Encoder-Decoder" target="_blank"><img src="https://img.shields.io/badge/GitHub-Source-181717?style=flat&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <strong>📋 JSON Formatter & Validator</strong><br/>
+      Prettify and validate JSON payloads instantly in the browser.<br/><br/>
+      <a href="https://github.com/ejcenteno/JSON-Formatter-and-Validator" target="_blank"><img src="https://img.shields.io/badge/GitHub-Source-181717?style=flat&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <strong>🎨 Image Format Converter</strong><br/>
+      Convert images between formats (PNG, JPG, WebP, etc.) directly in the browser.<br/><br/>
+      <a href="https://github.com/ejcenteno/Image-Format-Converter" target="_blank"><img src="https://img.shields.io/badge/GitHub-Source-181717?style=flat&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -147,5 +205,4 @@ fun_fact: I built GPXShadow — a web app that turns your Strava runs into art �
 ---
 
 <p align="center">
-  📧 <a href="mailto:ejcenteno69@gmail.com">ejcenteno69@gmail.com</a> • 📍 Paombong, Bulacan, Philippines
-</p>
+  📧 <a href="/cdn-cgi/l/email-protection#a4c1cec7c1cad0c1cacb929de4c3c9c5cdc88ac7cbc9"><span class="__cf_email__
