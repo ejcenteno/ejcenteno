@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ejcenteno&label=Profile%20views&color=6C63FF&style=flat" alt="ejcenteno" />
-  <a href="https://ejcenteno-dev.web.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ejcenteno.dev-6C63FF?style=flat&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://ejcenteno.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ejcenteno.dev-6C63FF?style=flat&logo=firefox&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/ejcenteno" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ejcenteno-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
@@ -124,7 +124,7 @@ fun_fact: I built GPXShadow — a web app that turns your Strava routes into art
     <td width="50%" valign="top">
       <h3 align="center">🌐 ejcenteno.dev</h3>
       <p align="center">
-        <a href="https://ejcenteno-dev.web.app" target="_blank"><img src="https://img.shields.io/badge/Live_Site-ejcenteno.dev-6C63FF?style=for-the-badge" alt="Portfolio" /></a>
+        <a href="https://ejcenteno.dev" target="_blank"><img src="https://img.shields.io/badge/Live_Site-ejcenteno.dev-6C63FF?style=for-the-badge" alt="Portfolio" /></a>
       </p>
       <p align="center">Personal portfolio with automated CI/CD pipeline, Firebase Hosting, and SEO optimization.</p>
       <p align="center"><em>HTML • CSS • JavaScript • Tailwind CSS • Firebase • GitHub Actions</em></p>
