@@ -52,7 +52,7 @@ fun_fact: I built GPXShadow — a web app that turns your Strava routes into art
 - 🖊️ Managing and maintaining website content for various clients — keeping pages accurate, updated, and on-brand
 - 🧩 **Chrome Extensions** — building a suite of developer tools (Base64, JWT, JSON, and more) for future Chrome Web Store release
 - 🚴 [**GPXShadow**](https://gpxshadow-art.web.app/) — GPX/route visualization with Strava API integration
-- 🌐 [**ejcenteno.dev**](https://ejcenteno-dev.web.app/home) — portfolio updates & improvements
+- 🌐 [**ejcenteno.dev**](https://ejcenteno.dev) — portfolio updates & improvements
 
 ### 🌱 Currently Learning
 
