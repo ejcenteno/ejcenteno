@@ -20,6 +20,9 @@ education: Associate in Computer Technology - Bulacan State University
 
 currently:
   - Building React-based web solutions with TanStack Query, TanStack Table & shadcn/ui
+  - Developing an airport website — React flight boards, proprietary CMS, real-time status logic
+  - Working on a stockholder management system (React 19, shadcn/ui, RHF + Zod, Zustand)
+  - Producing HTML email / EDM campaigns for aviation, telco, and hospitality clients
   - Learning the Laravel + API Platform backend stack
   - Exploring state management patterns with Zustand & Jotai
 
@@ -28,7 +31,9 @@ previously:
   - Developed PWA handling 50K+ monthly appointments for 100+ organizations
   - Provided end-user training & support, reducing reported issues by 60%
 
-fun_fact: I built GPXShadow — a web app that turns your Strava routes into art 🚴‍♂️
+fun_fact: >
+  I built GPXShadow — a web app that turns your Strava routes into silhouette art 🚴‍♂️
+  ...before Strava shipped the feature natively.
 ```
 
 ---
@@ -39,20 +44,22 @@ fun_fact: I built GPXShadow — a web app that turns your Strava routes into art
 2022 ─── MYCURE ──────────────────────────── 2025 ─── C3 Interactive ───▶ Present
   │                                              │
   ├─ Vue.js / Nuxt.js / Quasar                   ├─ React 19 / TanStack / shadcn/ui
-  ├─ HIPAA-compliant healthcare PWA              ├─ Zustand / Jotai state management
-  ├─ Client training & product demos             ├─ Laravel + API Platform (learning 📖)
-  └─ QA testing (Cypress + Manual)               └─ Figma → React workflows
+  ├─ HIPAA-compliant healthcare PWA              ├─ Drupal CMS (hospitality & aviation)
+  ├─ Client training & product demos             ├─ Zustand / Jotai state management
+  └─ QA testing (Cypress + Manual)               ├─ HTML email / EDM production
+                                                 └─ Laravel + API Platform (learning 📖)
 ```
 
 ---
 
 ### 🔭 Currently Working On
 
-- 🏢 Front-end development at **C3 Interactive Manila** — React, TanStack, CMS & SEO
-- 🖊️ Managing and maintaining website content for various clients — keeping pages accurate, updated, and on-brand
-- 🧩 **Chrome Extensions** — building a suite of developer tools (Base64, JWT, JSON, and more) for future Chrome Web Store release
-- 🚴 [**GPXShadow**](https://gpxshadow-art.web.app/) — GPX/route visualization with Strava API integration
-- 🌐 [**ejcenteno.dev**](https://ejcenteno.dev) — portfolio updates & improvements
+- ✈️ **[NAIA](https://newnaia.com.ph/)** — React flight boards with real-time remarks/status logic, proprietary CMS, Lenis scroll integration
+- 📈 **Stockholder Management System** — React 19 + TanStack Table + shadcn/ui + React Hook Form + Zod + TanStack Query + Zustand
+- 📧 **EDM Campaigns** — HTML email production for aviation, telco, and hospitality clients
+- 🏨 **[Solaire North](https://sn.solaireresort.com/)** — Drupal CMS content, Twig templates, custom components for a luxury resort property
+- 🚴 [**GPXShadow**](https://gpxshadow-art.web.app/) — GPX/route visualization with Strava API integration *(built before Strava shipped it natively)*
+- 🌐 [**ejcenteno.dev**](https://ejcenteno.dev) — portfolio rebuild with Astro 5 + Sanity v3 *(in planning)*
 
 ### 🌱 Currently Learning
 
@@ -93,9 +100,16 @@ fun_fact: I built GPXShadow — a web app that turns your Strava routes into art
   <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
+<h4 align="center">CMS</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal" />
+</p>
+
 <h4 align="center">Backend & Tools <em>(learning 📖)</em></h4>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logoColor=white" alt="Inertia.js" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/API_Platform-38A3A5?style=for-the-badge" alt="API Platform" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -114,19 +128,47 @@ fun_fact: I built GPXShadow — a web app that turns your Strava routes into art
 <table align="center">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">✈️ NAIA — New Manila International Airport</h3>
+      <p align="center">
+        <a href="https://newnaia.com.ph/" target="_blank"><img src="https://img.shields.io/badge/Live_Site-newnaia.com.ph-6C63FF?style=for-the-badge" alt="NAIA" /></a>
+      </p>
+      <p align="center">React-powered airport website with real-time flight board, dynamic status/remarks logic, stale data detection, and a proprietary CMS integration.</p>
+      <p align="center"><em>React • C3 CMS • Lenis • Tailwind CSS</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📈 Stockholder Management System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Internal_System-Client_Work-6C63FF?style=for-the-badge" alt="Stockholder Management" />
+      </p>
+      <p align="center">Full-featured stockholder management system — ESPP, LTIP, Public Offering, Stock Transfer modules with server-paginated data tables and complex form flows.</p>
+      <p align="center"><em>React 19 • TanStack Table • shadcn/ui • RHF + Zod • Zustand</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏨 Solaire North</h3>
+      <p align="center">
+        <a href="https://sn.solaireresort.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Site-sn.solaireresort.com-6C63FF?style=for-the-badge" alt="Solaire North" /></a>
+      </p>
+      <p align="center">Drupal-based hospitality site for a luxury resort property — custom Twig templates, awards timeline, dining pages, and parking/transport content.</p>
+      <p align="center"><em>Drupal • Twig • CSS</em></p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🚴 GPXShadow</h3>
       <p align="center">
-        <a href="https://gpxshadow-art.web.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Site-gpxshadow.com-6C63FF?style=for-the-badge" alt="GPXShadow" /></a>
+        <a href="https://gpxshadow-art.web.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Site-gpxshadow--art.web.app-6C63FF?style=for-the-badge" alt="GPXShadow" /></a>
       </p>
-      <p align="center">Web app converting GPX fitness tracks into customizable silhouette images with Strava API integration.</p>
+      <p align="center">Web app converting GPX fitness tracks into customizable silhouette images with Strava API integration — built before Strava shipped the feature natively.</p>
       <p align="center"><em>Vue.js • Tailwind CSS • Firebase • Strava API</em></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🌐 ejcenteno.dev</h3>
       <p align="center">
         <a href="https://ejcenteno.dev" target="_blank"><img src="https://img.shields.io/badge/Live_Site-ejcenteno.dev-6C63FF?style=for-the-badge" alt="Portfolio" /></a>
       </p>
-      <p align="center">Personal portfolio with automated CI/CD pipeline, Firebase Hosting, and SEO optimization.</p>
+      <p align="center">Personal portfolio with automated CI/CD pipeline, Firebase Hosting, and SEO optimization. Rebuild with Astro 5 + Sanity v3 in progress.</p>
       <p align="center"><em>HTML • CSS • JavaScript • Tailwind CSS • Firebase • GitHub Actions</em></p>
     </td>
   </tr>
@@ -205,4 +247,5 @@ A growing collection of developer-focused browser extensions built with vanilla 
 ---
 
 <p align="center">
-  📧 <a href="/cdn-cgi/l/email-protection#a4c1cec7c1cad0c1cacb929de4c3c9c5cdc88ac7cbc9"><span class="__cf_email__
+  📧 <a href="mailto:efren@ejcenteno.dev">efren@ejcenteno.dev</a>
+</p>
